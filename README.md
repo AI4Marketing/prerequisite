@@ -2,7 +2,7 @@
 
 * We are building a MediaLogger application for data collection at scale. 
 
-—----------------------------------------------------------------------------------------------------------------------------
+—----------------------------------------------------
 
 # Agentic AI Learning - Please do each items in the listed sequence
 
