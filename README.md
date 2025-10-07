@@ -12,8 +12,6 @@
   [Introducing Claude Code](https://www.youtube.com/watch?v=AJpK3YTTKZ4)
 * Watch this interview to understand junior Software Engineering is gone
   [The future of agentic coding with Claude Code](https://www.youtube.com/watch?v=iF9iV4xponk)
-* Register a Github account
-  [https://github.com/](https://github.com/)
 * Read these 2 papers to understand concepts about building AI agents
   [https://arxiv.org/abs/2210.03629](https://arxiv.org/abs/2210.03629)
   [https://arxiv.org/abs/2305.10601](https://arxiv.org/abs/2305.10601)
