@@ -1,4 +1,4 @@
-# Social Understanding: [Viral Media Log](https://docs.google.com/spreadsheets/d/13tR5eTLg3LC49wWHhsuYYZ_hOWReWcAn9JRxfMihUW0/edit?gid=0#gid=0)
+# Social Understanding: [Viral Media Log](https://docs.google.com/spreadsheets/d/13tR5eTLg3LC49wWHhsuYYZ_hOWReWcAn9JRxfMihUW0/edit?gid=0#gid=0) [UNDER CONSTRUCTION]
 
 * We are building a MediaLogger application for data collection at scale. 
 
