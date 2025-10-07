@@ -1,23 +1,6 @@
 # Social Understanding: [Viral Media Log](https://docs.google.com/spreadsheets/d/13tR5eTLg3LC49wWHhsuYYZ_hOWReWcAn9JRxfMihUW0/edit?gid=0#gid=0)
 
-* Collect 20 posts on your feed (not by search) that went viral (500K Views or >50K Likes)
-* Review and code each posts’ features using the Viral Media Log template
-
-## Viral Media Log Instructions:
-
-* Scroll on your feed until you find 20 posts that meets the requirements (500K Views or >50K Likes, non-celebrity posted, non-cross-posted, and posted in 2025)
-* For each post, complete these fields in the Media Log:
-
-  * Quantitative performance data
-
-    * Views
-    * Engagements (Views + Likes + Comments + Shares + Saves)
-    * Engagement Rate (Engagements / Views)
-  * Qualitative content data, by topic (Insert SocialQ AI themes: …)
-
-    * Content Type
-    * Emotion
-    * Context
+* We are building a MediaLogger application for data collection at scale. 
 
 —----------------------------------------------------------------------------------------------------------------------------
 
