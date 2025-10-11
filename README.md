@@ -17,6 +17,7 @@
   [https://arxiv.org/abs/2305.10601](https://arxiv.org/abs/2305.10601)
 * Read through this blog to learn about the State-of-the-Art on Agentic Engineering
   [https://ai.meta.com/research/publications/are-scaling-up-agent-environments-and-evaluations/](https://ai.meta.com/research/publications/are-scaling-up-agent-environments-and-evaluations/)
+* Learn about [SWE-Agent](https://arxiv.org/pdf/2405.15793) and [SWE-Bench](https://arxiv.org/pdf/2310.06770).
 * Watch these 2 videos and use Claude Code to build a game on your machine (MacOS preferred) WITHOUT writing a single line of code. You are encouraged to search for more Youtube videos to understand how to do this. When you finish, make a recording of your game and push to Github (if you don’t know, ask AI).
   [Build Your First AI Game With ZERO Coding (Lovable + Grok 3 + Claude 3.7)](https://www.youtube.com/watch?v=xWJDvub8Hws)
   [Making An Actually Fun Game (NO Coding experience)](https://www.youtube.com/watch?v=aa-Fu5Qw91M&t=216s)
