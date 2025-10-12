@@ -12,9 +12,6 @@
   [Introducing Claude Code](https://www.youtube.com/watch?v=AJpK3YTTKZ4)
 * Watch this interview to understand junior Software Engineering is gone
   [The future of agentic coding with Claude Code](https://www.youtube.com/watch?v=iF9iV4xponk)
-* Read these 2 papers to understand concepts about building AI agents
-  [https://arxiv.org/abs/2210.03629](https://arxiv.org/abs/2210.03629)
-  [https://arxiv.org/abs/2305.10601](https://arxiv.org/abs/2305.10601)
 * Read through this blog to learn about the State-of-the-Art on Agentic Engineering
   [https://ai.meta.com/research/publications/are-scaling-up-agent-environments-and-evaluations/](https://ai.meta.com/research/publications/are-scaling-up-agent-environments-and-evaluations/)
 * Learn about [SWE-Agent](https://arxiv.org/pdf/2405.15793) and [SWE-Bench](https://arxiv.org/pdf/2310.06770).
